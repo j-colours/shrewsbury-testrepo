@@ -31,7 +31,7 @@ int main()
 	} while (answer != 'y');
 
 
-	std::cout << "The average was " << computerAverage(list, count) << std::endl;
+	std::cout << "The average was " << computeAverage(list, count) << std::endl;
 
 	// everything is okay
 	return 0;
