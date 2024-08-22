@@ -1,6 +1,6 @@
 #include <iostream>
 
-#define AEEAY_MAX 100
+#define ARRAY_MAX 100
 // estimate the average of the numbers in the list. The parameter 
 // list is an array of doubles containing values we want to average,
 // and the parameter size is the number of items stored in the list.
